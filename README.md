@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Srihari.
+- 👀 I’m interested in becoming fluent in python, SQL, javascript, java, and HTML.
+- 🌱 I’m currently learning to code a discord bot, which can be seen in my TreehouseDiscordBot repository.
+- 📬 You can reach me on discord @GGTreezy#7391 or by email: iamsrihari.921@gmail.com
