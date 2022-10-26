@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Srihari.
+- 👋 Hi, I’m Srihari. I am currently studying Computer Engineering in my freshman year.
 - 👀 I’m interested in becoming fluent in python, SQL, javascript, java, and HTML.
 - 🌱 I’m currently learning to code a discord bot, which can be seen in my TreehouseDiscordBot repository.
 - 📬 You can reach me on discord @ItsTree#7391 or by email: iamsrihari.921@gmail.com
