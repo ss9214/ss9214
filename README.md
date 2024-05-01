@@ -1,4 +1,4 @@
 - 👋 Hello! I’m Srihari. I am currently studying Computer Science and Math at UMass Amherst and I'm in my second year.
-- 👀 My strongest languages are Python, JavaScript and TypeScript, but I have learned Java, C, SQL, and many libraries and frameworks as well.
-- I'm interested in exploring Artificial Intelligence and Data Science, specifically Optimization Techniques and Algorithms.
+- 👀 My strongest languages are Python and Typescript but I have learned Java, C, SQL, as well as many libraries and frameworks as well.
+- My current career interest is in exploring Artificial Intelligence with a concentration in Security!
 - 📬 You can reach me by email: iamsrihari.921@gmail.com
