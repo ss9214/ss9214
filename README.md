@@ -1,5 +1,5 @@
 👋 Hello! I’m Srihari. I am currently an undergraduate student majoring in Computer Science at UMass Amherst!
-```javascript
+```py
 about_me = {
 "languages" : ["Python", "C", "TypeScript", "Javascript", "Java", "Dart"],
 "frameworks": {
