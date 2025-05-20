@@ -11,7 +11,7 @@ about_me = {
 "AI_tools": ["LangChain", "GeminiAI", "VertexAI", "RAG Pipelines"],
 "security_tools": ["Wireshark", "Nmap", "Ghidra", "Metasploit"],
 "databases" : ["postgreSQL","MongoDB"],
-"tools": ["Git", "Docker", "Linux", "Shell", "ESP-IDF"],
+"tools": ["Git", "Docker", "Linux", "Shell", "ESP-IDF", "Streamlit"],
 "career_interest" : "My current career interest is in exploring Security in the medical industry!",
 "email" : "sriharisriva@gmail.com",
 "linked_in" :"https://www.linkedin.com/in/srihari-srivatsa"
