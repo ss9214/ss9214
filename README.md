@@ -1,4 +1,4 @@
-👋 Hello! I’m Srihari. I am currently an undergraduate student majoring in Computer Science at UMass Amherst!
+👋 Hello! I’m Srihari. I am currently a graduate student majoring in Information Security at Georgia Institute of Technology!
 
 View my portfolio at [http://ss9214.github.io](http://ss9214.github.io)!
 ```java
