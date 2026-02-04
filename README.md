@@ -12,8 +12,8 @@ about_me = {
                 },
   "AI_tools": ["Agentic Workflows","LangChain", "GeminiAI", "VertexAI", "RAG Pipelines"],
   "security_tools": ["VMWare", "Wireshark", "Nmap", "Ghidra", "Metasploit"],
-  "databases": ["AWS DynamoDB", "MySQL","MongoDB", "PostgreSQL"] ,
-  "devops_tools": [:AWS S3", "AWS EKS", "AWS ELB", "AWS EC2", Kubernetes, Helm, Docker, YAML]
+  "databases": ["AWS DynamoDB", "MySQL","MongoDB", "PostgreSQL"],
+  "devops_tools": [:AWS S3", "AWS EKS", "AWS ELB", "AWS EC2", Kubernetes, Helm, Docker, YAML],
   "career_interest" : "My current career interest is in exploring Cloud Engineering/DevOps and Cloud Security!",
   "email" : "sriharisriva@gmail.com",
   "linked_in" :"https://www.linkedin.com/in/srihari-srivatsa"
