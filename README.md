@@ -1,8 +1,10 @@
 👋 Hello! I’m Srihari. I am currently a graduate student majoring in Information Security at Georgia Institute of Technology!
 
-View my portfolio at [http://ss9214.github.io](http://ss9214.github.io)!
+View my portfolio at [https://ss9214-portfolio.vercel.app/](https://ss9214-portfolio.vercel.app/)!
 
 View my party game website at [https://sri-party-games.vercel.app](https://sri-party-games.vercel.app)
+
+View my Automatic Deployment CLI at [https://github.com/ss9214/service-deployer-and-manager](https://github.com/ss9214/service-deployer-and-manager)
 ```javascript
 about_me = {
   "languages": ["Python", "C", "TypeScript", "YAML", "Javascript", "Bash","Java", "Dart"],
